@@ -1,0 +1,5 @@
+Open,Мөнхмөрөн,12345
+Deposit,1234
+Withdraw,500
+View
+Open

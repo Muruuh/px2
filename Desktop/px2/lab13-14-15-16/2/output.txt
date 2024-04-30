@@ -1,0 +1,4 @@
+Account opened for Мөнхмөрөн with account number 12345
+Deposited $1234.0. New balance: $1234.0
+Withdrew $500.0. New balance: $734.0
+Дансны үлдэгдэл Мөнхмөрөн: $734.0
